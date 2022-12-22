@@ -1,0 +1,32 @@
+{
+  "name": "japanese-fonts",
+  "version": "0.0.1",
+  "homepage": "https://github.com/indradev-prasad/japanese-fonts",
+  "description": "Japanes fonts for JsPdf",
+  "main": "dist/main.js",
+  "module": "dist/main.js",
+  "browser": "dist/main.js",
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "japanese pdf"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indradev-prasad/japanese-fonts.git"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+  
+  },
+  "browserslist": [
+    "last 2 versions",
+    "IE 11"
+  ]
+}
