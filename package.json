@@ -1,6 +1,6 @@
 {
   "name": "japanese-fonts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/indradev-prasad/japanese-fonts",
   "description": "Japanes fonts for JsPdf",
   "main": "dist/main.js",
