@@ -1,6 +1,6 @@
 {
   "name": "japanese-fonts",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "homepage": "https://github.com/indradev-prasad/japanese-fonts",
   "description": "Japanes fonts for JsPdf",
   "main": "dist/main.js",
@@ -26,7 +26,7 @@
   
   },
   "browserslist": [
-    "last 2 versions",
+    "last 5 versions",
     "IE 11"
   ]
 }
